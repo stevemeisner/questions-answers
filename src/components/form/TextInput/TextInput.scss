@@ -1,0 +1,11 @@
+@import "../../../styles/partials/colors";
+
+.input {
+
+  &__text_input {
+    font-size: 2em;
+    font-weight: 500;
+    padding: .2em 1rem .3em;
+    border: 3px solid $gunmetal;
+  }
+}
